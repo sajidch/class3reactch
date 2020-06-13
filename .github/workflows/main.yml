@@ -44,7 +44,7 @@ jobs:
 
       with:
         node-version: 12
-        cmd: install
+        
     - name: Build React app
        
          
